@@ -17,11 +17,9 @@ Once the user finally clicks "Yes", a rewarding animation plays!
 - **Vanilla JavaScript:** For handling the DOM events and the mathematical logic behind the dodging button.
 
 ## 🌐 Live Demo
-[Click here to try it out!](#) *(حط رابط GitHub Pages هون)*
 
-## 🖥️ Preview
-*(Put a GIF or video of you trying to click the 'No' button here)*
-![Project Preview](link-to-your-image.gif)
+
+
 
 ---
 *Built for fun and to experiment with interactive web elements!*
